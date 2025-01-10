@@ -2,7 +2,8 @@
 
 ## Setup
 1. Clone the repository.
-2. Run `npm install` or `npm install --save-dev jest`.
+2. Open terminal/bash in VS Code
+3. Run `npm install` or `npm install --save-dev jest`.
 
 ## Run Tests
 Run `npm start` to manually run and test the code.
